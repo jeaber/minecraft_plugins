@@ -1,0 +1,4 @@
+name: BlazeRodReducePlugin
+main: stream.jeaber.BlazeRodReducePlugin
+version: 1.0
+commands:

@@ -1,0 +1,4 @@
+name: AdvancedAnvilPlugin
+main: stream.jeaber.AdvancedAnvilPlugin
+version: 1.0
+commands:
